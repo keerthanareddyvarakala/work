@@ -10,6 +10,14 @@ namespace ConsoleApplication3
     {
         static void Main(string[] args)
         {
+            string input = Console.ReadLine();
+
+            Console.WriteLine("hey hello");
+
+            string inpu = Console.ReadLine();
+
+
+
         }
     }
 }
